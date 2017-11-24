@@ -1,0 +1,16 @@
+body{
+background-image: url(../img/dark-triangles.png);
+}
+.logo{
+font-family: 'garamond';
+}
+.logo a{
+color: red;
+font-weight: 200;
+}
+
+
+.logo a:hover,
+.logo a:active {
+  text-decoration: none;
+}
